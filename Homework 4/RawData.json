@@ -1,0 +1,34 @@
+{
+    "count": 1,
+    "companyDescription": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, United States.",
+    "listOfData": [
+        {
+            "name": "iPhone",
+            "modelNumber": "X",
+            "countries": ["USA", "UK", "UA"],
+            "price": {
+                "regions": [
+                    {
+                        "name": "NY",
+                        "price": 100
+                    }
+                ]
+            },
+            "year": 2019
+        },
+        {
+            "name": "iPhone",
+            "modelNumber": "13",
+            "countries": ["ES", "IS", "UA"],
+            "price": {
+                "regions": [
+                    {
+                        "name": "NY",
+                        "price": 150
+                    }
+                ]
+            },
+            "year": 2020
+        }
+    ]
+}
